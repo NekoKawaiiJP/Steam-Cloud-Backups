@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "owner": "NekoKawaiiJP",
+  "repo": "Steam-Cloud-Backups",
+  "branch": "STORY_OF_SEASONS_Grand_Bazaar",
+  "mappings": [
+    {
+      "machine_id": "4b23e92c000b58cc44db2c183ee575d072a40a22",
+      "machine_name": "DESKTOP-F50NCEH",
+      "path": "C:\\Users\\Yumachi\\AppData\\Roaming\\STORY OF SEASONS Grand Bazaar",
+      "os": "Windows",
+      "last_updated": "2025-09-18T09:27:41.859624+00:00"
+    }
+  ],
+  "updated_at": "2025-09-18T09:27:41.859624+00:00"
+}
